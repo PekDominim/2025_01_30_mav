@@ -4,7 +4,17 @@ table, th, td {
   }
 
   table {
-    width: 80%;
+    width: 80%; /* weboldal szélessége */
+    background-color: aqua; /*háttérszín*/
+    color: blue; /*bestűszín*/
+    font-family: 'Courier New'; /*háttérszín*/
+    font-size: 24px; /*betűméret*/
+  }
+
+  th {
+    background-color: black;
+  }
+
+  td {
     background-color: aqua;
-    color: blue;
   }
