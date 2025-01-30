@@ -1,0 +1,10 @@
+table, th, td {
+    border: 2px solid;
+    border-collapse: collapse;
+  }
+
+  table {
+    width: 80%;
+    background-color: aqua;
+    color: blue;
+  }
