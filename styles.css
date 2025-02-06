@@ -15,6 +15,12 @@ table, th, td {
     background-color: black;
   }
 
-  td {
-    background-color: aqua;
+ 
+  
+  #keses{
+    background-color  : red;
+  }
+  
+  .paratlan{
+    background-color: rgb(86, 226, 43);
   }
