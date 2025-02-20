@@ -4,6 +4,7 @@ table{
     height: 350px;
     width: 100%;
     font-size: large;
+    align-self: auto;
 }
 thead {
     background-color: rgb(1, 93, 180);
@@ -14,4 +15,23 @@ tbody tr:nth-child(even) {
 }
 tbody tr:nth-child(odd) {
     background-color: rgb(92, 198, 246);
+}
+#currentTime{
+    background-color: white;
+}
+body{
+    background-image: url(https://images.hdqwalls.com/wallpapers/landscape-alpine-mountains-landscape-5k-1k.jpg) ;
+}
+
+#bla{
+    color: aliceblue;
+}
+#ződ{
+    background-color: green;
+}
+#zöd{
+    background-color: green;
+}
+#pilos{
+    background-color: red;
 }
