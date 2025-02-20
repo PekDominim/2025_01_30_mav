@@ -1,7 +1,17 @@
 table{
     border-collapse: collapse;
     text-align: center;
+    height: 350px;
+    width: 100%;
+    font-size: large;
 }
 thead {
     background-color: rgb(1, 93, 180);
+}
+tbody tr:nth-child(even) {
+    background-color: rgb(1, 93, 180);
+    
+}
+tbody tr:nth-child(odd) {
+    background-color: rgb(92, 198, 246);
 }
