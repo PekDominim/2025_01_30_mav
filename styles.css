@@ -1,0 +1,26 @@
+table, th, td {
+    border: 2px solid;
+    border-collapse: collapse;
+  }
+
+  table {
+    width: 80%; /* weboldal szélessége */
+    background-color: aqua; /*háttérszín*/
+    color: blue; /*bestűszín*/
+    font-family: 'Courier New'; /*háttérszín*/
+    font-size: 24px; /*betűméret*/
+  }
+
+  th {
+    background-color: black;
+  }
+
+ 
+  
+  #keses{
+    background-color  : red;
+  }
+  
+  .paratlan{
+    background-color: rgb(86, 226, 43);
+  }
