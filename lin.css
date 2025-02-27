@@ -18,6 +18,7 @@ tbody tr:nth-child(odd) {
 }
 #currentTime{
     background-color: white;
+    color: rgb(1, 93, 180);
 }
 body{
     background-image: url(https://images.hdqwalls.com/wallpapers/landscape-alpine-mountains-landscape-5k-1k.jpg) ;
