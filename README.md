@@ -1,7 +1,7 @@
 ## MÁV uatstájékoztató
-==========================
-Ez a kód könyvtár 2 táblázatot fogalal magában amej megutatja az "aktuálisan induló vonatokat
 
+Ez a kód könyvtár 2 táblázatot fogalal magában amej megutatja az "aktuálisan induló vonatokat
+----------------------------------------------------------------------------------------------------
 Az eredeti Fálj caomag tartalmaz:
 index.html 
 
