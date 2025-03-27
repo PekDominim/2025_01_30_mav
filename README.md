@@ -26,6 +26,10 @@ Fejlesztési tervek
 ---
 Nincs (egyenlőre)
 
+Átlagos elmeállpotom a kód készítése közben
+---
+**(╯°□°)╯︵ ┻━┻**
+
 Szerző
 ---
 A projekt szerzője: PekDominim.
