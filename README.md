@@ -1,40 +1,36 @@
-# MÁV uatstájékoztató
+# 🚆 MÁV Utastájékoztató 🚆
 
-Ez a kód könyvtár 2 táblázatot fogalal magában amej megutatja az "aktuálisan induló vonatokat
+Ez a kódkönyvtár két táblázatot foglal magában, amely megmutatja az aktuálisan induló vonatokat.  
 
-Tartalom:
----
-Az eredeti csomag az alábbi fájlokat tartalmazza:
-* `index.html `
-* `indulo_vonatok.html `
-* `lin.css `
-* `styles.css `
-* `script.js `
-* `mav-szarnyaskerek.png `
-* `README.md `
-* `.gitattributes `
+## Tartalom  
+---  
+Az eredeti csomag az alábbi fájlokat tartalmazza:  
+* `index.html`  
+* `indulo_vonatok.html`  
+* `lin.css`  
+* `styles.css`  
+* `script.js`  
+* `mav-szarnyaskerek.png`  
+* `README.md`  
+* `.gitattributes`  
 
-Használat
----
-1. Nyisd meg az `index.html` fájlt egy böngészőben *(Lehetőleg Internet Explorerben mert mire betölt már nem lesz aktuális)*.
+## Használat  
+---  
+1. Nyisd meg az `index.html` fájlt egy böngészőben *(Lehetőleg Internet Explorerben, mert mire betölt, már nem lesz aktuális)*.  
+2. Csodáld meg a táblázatot!  
+3. Zárd be. 🚪 
 
-2. Csodáld meg a táblázatot
+## Fejlesztési tervek  
+---  
+❌ Nincs (egyelőre).  
 
-3. Zárd be
+## Átlagos elmeállapotom a kód készítése közben  
+---  
+**(╯°□°)╯︵ ┻━┻**  
 
-Fejlesztési tervek
----
-Nincs (egyenlőre)
+## Szerző  
+---  
+A projekt szerzője: **PekDominim**  
+A projekt a **CC Atributes Licence** alatt áll.  
 
-Átlagos elmeállpotom a kód készítése közben
----
-**(╯°□°)╯︵ ┻━┻**
-
-Szerző
----
-A projekt szerzője: PekDominim.
-
-A projekt a **CC Atributes Licence** alatt áll
-
----
-
+👉 [GitHub oldal]([https://yourusername.github.io](https://pekdominim.github.io/2025_01_30_mav/))  
