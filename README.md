@@ -33,4 +33,4 @@ Az eredeti csomag az alábbi fájlokat tartalmazza:
 A projekt szerzője: **PekDominim**  
 A projekt a **CC Atributes Licence** alatt áll.  
 
-👉 [GitHub oldal](https://pekdominim.github.io/2025_01_30_mav/)
+## A projekt demóját keresd itt ➡️ [MÁV Utastájékoztató](https://pekdominim.github.io/2025_01_30_mav/)
